@@ -20,7 +20,7 @@ requirements:
     - python >=3.9
     - setuptools
     - setuptools-scm
-
+    - pip
   run:
     - python >=3.9
     - jax
