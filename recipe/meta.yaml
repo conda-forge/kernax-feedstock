@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://gitlab.com/drti/kernax/-/archive/{{ version }}/kernax-{{ version }}.tar.gz
-  sha256: 06594ecdb5cc2e00653ba3c7ffd1fd131bb6ca9fa764a9198df253182933136a
+  sha256: a8dbe974c2d5327853cb700eb2112f5ac94db8db8410c5710fab57b09dd4408b
 
 build:
   script_env:
