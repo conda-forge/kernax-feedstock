@@ -1,4 +1,4 @@
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 
 package:
   name: kernax
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://gitlab.com/drti/kernax/-/archive/{{ version }}/kernax-{{ version }}.tar.gz
-  sha256: a8dbe974c2d5327853cb700eb2112f5ac94db8db8410c5710fab57b09dd4408b
+  sha256: 79c05a08bfe8749f07f4f9c2b00ac2e0b48521b31172095670388d0f7a5035a8
 
 build:
   script_env:
